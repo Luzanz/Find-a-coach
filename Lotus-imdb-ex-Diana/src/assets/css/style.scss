@@ -1,0 +1,88 @@
+@import "navbar";
+@import "GorditaFonts.css";
+@import "buttons";
+@import "quasar";
+@import "quasar.variables";
+
+body {
+  margin: 0;
+  overflow: hidden;
+  font-family: Gordita-Regular sans-serif;
+}
+
+h1 {
+  font-size: 2em !important;
+  font-weight: 600 !important;
+  line-height: 105% !important;
+}
+
+.chart-wrapper {
+  //border: 1px solid red;
+}
+
+.v-sidebar-menu {
+  position: fixed;
+  top: 100px;
+  left: 0;
+  bottom: 0;
+  display: flex;
+  flex-direction: column;
+  z-index: 999;
+  box-sizing: border-box;
+  width: 100%;
+  text-align: left;
+  transition: 0.2s max-width ease;
+}
+@keyframes textEntrance {
+  0% {
+    top: 10rem;
+    opacity: 0;
+  }
+}
+/* v-bar styles */
+.vb { height: 100%}
+.vb > .vb-dragger {
+  z-index: 5;
+  width: 12px;
+  right: 0;
+}
+
+.vb > .vb-dragger > .vb-dragger-styler {
+  -webkit-backface-visibility: hidden;
+  backface-visibility: hidden;
+  -webkit-transform: rotate3d(0,0,0,0);
+  transform: rotate3d(0,0,0,0);
+  -webkit-transition:
+          background-color 100ms ease-out,
+          margin 100ms ease-out,
+          height 100ms ease-out;
+  transition:
+          background-color 100ms ease-out,
+          margin 100ms ease-out,
+          height 100ms ease-out;
+  background-color: rgba(24,165,125, 0.91);
+  margin: 5px 5px 5px 0;
+  border-radius: 20px;
+  height: calc(100% - 10px);
+  display: block;
+}
+
+.vb.vb-scrolling-phantom > .vb-dragger > .vb-dragger-styler {
+  background-color: rgba(24,165,125, 0.91);
+}
+
+.vb > .vb-dragger:hover > .vb-dragger-styler {
+  background-color: rgba(124, 255, 221, 0.91);
+  margin: 0;
+  height: 100%;
+}
+
+.vb.vb-dragging > .vb-dragger > .vb-dragger-styler {
+  background-color: rgba(124, 255, 221, 0.91);
+  margin: 0;
+  height: 100%;
+}
+
+.vb.vb-dragging-phantom > .vb-dragger > .vb-dragger-styler {
+  background-color: rgba(124, 255, 221, 0.91);
+}

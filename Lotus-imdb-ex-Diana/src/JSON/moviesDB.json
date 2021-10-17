@@ -1,0 +1,425 @@
+[
+    {
+        "genre_ids": [
+            10765,
+            18
+        ],
+        "first_air_date": "2021-09-13",
+        "id": 86550,
+        "original_name": "Y: The Last Man",
+        "origin_country": [
+            "US"
+        ],
+        "vote_count": 5,
+        "vote_average": 7.7,
+        "poster_path": "/xcqV8XIAP6vhFFNW2ICV6a0qIJ2.jpg",
+        "name": "Y: The Last Man",
+        "overview": "Traverse a post-apocalyptic world in which a cataclysmic event decimates every mammal with a Y chromosome but for one cisgender man and his pet monkey. Follow the survivors in this new world as they struggle with their efforts to restore what was lost and the opportunity to build something better.",
+        "backdrop_path": "/9G7qcQKXLYfAFNtYIF9FRcheFgf.jpg",
+        "original_language": "en",
+        "popularity": 75.939,
+        "media_type": "tv"
+    },
+    {
+        "origin_country": [
+            "ES"
+        ],
+        "backdrop_path": "/gFZriCkpJYsApPZEF3jhxL4yLzG.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "name": "Money Heist",
+        "id": 71446,
+        "poster_path": "/reEMJA1uzscCbkpeRJeTT2bjqUp.jpg",
+        "first_air_date": "2017-05-02",
+        "vote_average": 8.3,
+        "overview": "To carry out the biggest heist in history, a mysterious man called The Professor recruits a band of eight robbers who have a single characteristic: none of them has anything to lose. Five months of seclusion - memorizing every step, every detail, every probability - culminate in eleven days locked up in the National Coinage and Stamp Factory of Spain, surrounded by police forces and with dozens of hostages in their power, to find out whether their suicide wager will lead to everything or nothing.",
+        "vote_count": 14302,
+        "original_language": "es",
+        "original_name": "La Casa de Papel",
+        "popularity": 1695.957,
+        "media_type": "tv"
+    },
+    {
+        "backdrop_path": "/ktDJ21QQscbMNQfPpZBsNORxdDx.jpg",
+        "genre_ids": [
+            80,
+            10765
+        ],
+        "original_language": "en",
+        "id": 63174,
+        "poster_path": "/ekZobS8isE6mA53RAiGDG93hBxL.jpg",
+        "vote_count": 10234,
+        "name": "Lucifer",
+        "vote_average": 8.5,
+        "overview": "Bored and unhappy as the Lord of Hell, Lucifer Morningstar abandoned his throne and retired to Los Angeles, where he has teamed up with LAPD detective Chloe Decker to take down criminals. But the longer he's away from the underworld, the greater the threat that the worst of humanity could escape.",
+        "original_name": "Lucifer",
+        "origin_country": [
+            "US"
+        ],
+        "first_air_date": "2016-01-25",
+        "popularity": 2608.229,
+        "media_type": "tv"
+    },
+    {
+        "backdrop_path": "/skO0UIpNYaSjQYc8hQsE890ViOG.jpg",
+        "original_name": "Scenes from a Marriage",
+        "origin_country": [
+            "US"
+        ],
+        "id": 112077,
+        "vote_count": 1,
+        "vote_average": 10,
+        "first_air_date": "2021-09-12",
+        "genre_ids": [
+            18
+        ],
+        "name": "Scenes from a Marriage",
+        "original_language": "en",
+        "overview": "A chronicle of the many years of love and turmoil that bind a contemporary American couple, tracking their relationship as it progresses through a number of successive stages: matrimony, infidelity, divorce, and subsequent partnerships.",
+        "poster_path": "/wlsivaJuU6HScCFKcgv1cgtdmQt.jpg",
+        "popularity": 40.921,
+        "media_type": "tv"
+    },
+    {
+        "original_name": "Hawkeye",
+        "origin_country": [
+            "US"
+        ],
+        "backdrop_path": "/3LaFD61Iy3b5TQPLpsZf1NwiUrR.jpg",
+        "genre_ids": [
+            10759,
+            18
+        ],
+        "original_language": "en",
+        "vote_count": 0,
+        "name": "Hawkeye",
+        "vote_average": 0,
+        "id": 88329,
+        "first_air_date": "2021-11-24",
+        "poster_path": "/cqxKUTfvwRJHY14IhfcFO5gYzKE.jpg",
+        "overview": "Former Avenger Clint Barton has a seemingly simple mission: get back to his family for Christmas. Possible? Maybe with the help of Kate Bishop, a 22-year-old archer with dreams of becoming a Super Hero. The two are forced to work together when a presence from Barton’s past threatens to derail far more than the festive spirit.",
+        "popularity": 31.562,
+        "media_type": "tv"
+    },
+    {
+        "name": "The Walking Dead",
+        "backdrop_path": "/wvdWb5kTQipdMDqCclC6Y3zr4j3.jpg",
+        "original_name": "The Walking Dead",
+        "origin_country": [
+            "US"
+        ],
+        "original_language": "en",
+        "poster_path": "/w21lgYIi9GeUH5dO8l3B9ARZbCB.jpg",
+        "vote_count": 11609,
+        "vote_average": 8.1,
+        "id": 1402,
+        "overview": "Sheriff's deputy Rick Grimes awakens from a coma to find a post-apocalyptic world dominated by flesh-eating zombies. He sets out to find his family and encounters many other survivors along the way.",
+        "first_air_date": "2010-10-31",
+        "genre_ids": [
+            10759,
+            18,
+            10765
+        ],
+        "popularity": 1287.088,
+        "media_type": "tv"
+    },
+    {
+        "origin_country": [
+            "US"
+        ],
+        "backdrop_path": "/4N6zEMfZ57zNEQcM8gWeERFupMv.jpg",
+        "genre_ids": [
+            16,
+            10759,
+            10765
+        ],
+        "name": "What If...?",
+        "id": 91363,
+        "poster_path": "/lztz5XBMG1x6Y5ubz7CxfPFsAcW.jpg",
+        "first_air_date": "2021-08-11",
+        "vote_average": 8.6,
+        "overview": "Taking inspiration from the comic books of the same name, each episode explores a pivotal moment from the Marvel Cinematic Universe and turns it on its head, leading the audience into uncharted territory.",
+        "vote_count": 1593,
+        "original_language": "en",
+        "original_name": "What If...?",
+        "popularity": 2018.526,
+        "media_type": "tv"
+    },
+    {
+        "original_name": "See",
+        "origin_country": [
+            "US"
+        ],
+        "backdrop_path": "/oKxrDdG0SfmWRtJYmreK4rjDMUo.jpg",
+        "id": 80752,
+        "genre_ids": [
+            18,
+            10765,
+            10759
+        ],
+        "first_air_date": "2019-11-01",
+        "name": "See",
+        "vote_count": 1118,
+        "poster_path": "/A6dnHWe8YYcoFBHzP7T6WPP4b6F.jpg",
+        "original_language": "en",
+        "overview": "A virus has decimated humankind. Those who survived emerged blind. Centuries later when twins are born with the mythic ability to see, their father must protect his tribe against a threatened queen.",
+        "vote_average": 8.2,
+        "popularity": 576.659,
+        "media_type": "tv"
+    },
+    {
+        "overview": "A compelling family drama and a timeless story told through the eyes of complicated and compromised chief of police Del Harris of a Pennsylvania Rust Belt town full of good people making bad choices.",
+        "original_name": "American Rust",
+        "origin_country": [
+            "US"
+        ],
+        "id": 91746,
+        "backdrop_path": "/n00mqaR8e8QRrh9cNkpT9DoOPdM.jpg",
+        "genre_ids": [
+            18
+        ],
+        "name": "American Rust",
+        "poster_path": "/sTYqo79NEndA8IY8ZMjNeVaKpKo.jpg",
+        "vote_count": 2,
+        "vote_average": 8.5,
+        "first_air_date": "2021-09-12",
+        "original_language": "en",
+        "popularity": 77.55,
+        "media_type": "tv"
+    },
+    {
+        "vote_average": 8.8,
+        "first_air_date": "1999-10-20",
+        "overview": "Years ago, the fearsome pirate king Gol D. Roger was executed, leaving a huge pile of treasure and the famous \"One Piece\" behind. Whoever claims the \"One Piece\" will be named the new pirate king. Monkey D. Luffy, a boy who consumed a \"Devil's Fruit,\" decides to follow in the footsteps of his idol, the pirate Shanks, and find the One Piece. It helps, of course, that his body has the properties of rubber and that he's surrounded by a bevy of skilled fighters and thieves to help him along the way. Luffy will do anything to get the One Piece and become King of the Pirates!",
+        "id": 37854,
+        "backdrop_path": "/mBxsapX4DNhH1XkOlLp15He5sxL.jpg",
+        "genre_ids": [
+            10759,
+            35,
+            16
+        ],
+        "vote_count": 2337,
+        "original_language": "ja",
+        "name": "One Piece",
+        "original_name": "ワンピース",
+        "origin_country": [
+            "JP"
+        ],
+        "poster_path": "/4I1xjEKZxeeBT8RXg0BA6k6PM8e.jpg",
+        "popularity": 90.159,
+        "media_type": "tv"
+    },
+    {
+        "backdrop_path": "/bVUiZVA8iPwdEc0lX5nwEr6MwdM.jpg",
+        "genre_ids": [
+            99
+        ],
+        "original_language": "es",
+        "id": 132719,
+        "poster_path": "/lIa5eVVFdVNQmfAlKRexoJCVVd1.jpg",
+        "vote_count": 9,
+        "name": "Money Heist: From Tokyo to Berlin",
+        "vote_average": 7.7,
+        "overview": "The filmmakers and actors behind \"Money Heist\" characters like Tokyo and the Professor talk about the emotional artistic process of filming the series.",
+        "original_name": "La Casa de Papel: de Tokio a Berlín",
+        "origin_country": [
+            "ES"
+        ],
+        "first_air_date": "2021-09-03",
+        "popularity": 40.502,
+        "media_type": "tv"
+    },
+    {
+        "poster_path": "/8kOWDBK6XlPUzckuHDo3wwVRFwt.jpg",
+        "vote_average": 8.8,
+        "overview": "Rick is a mentally-unbalanced but scientifically gifted old man who has recently reconnected with his family. He spends most of his time involving his young grandson Morty in dangerous, outlandish adventures throughout space and alternate universes. Compounded with Morty's already unstable family life, these events cause Morty much distress at home and school.",
+        "vote_count": 5409,
+        "id": 60625,
+        "name": "Rick and Morty",
+        "backdrop_path": "/oSznw7CsnnG7rB21iNXooJaKVHO.jpg",
+        "first_air_date": "2013-12-02",
+        "genre_ids": [
+            16,
+            35,
+            10765,
+            10759
+        ],
+        "original_name": "Rick and Morty",
+        "original_language": "en",
+        "origin_country": [
+            "US"
+        ],
+        "popularity": 1193.976,
+        "media_type": "tv"
+    },
+    {
+        "origin_country": [],
+        "backdrop_path": "/jpOnjxfGh9wnMeIHkp5J4IA6Uo8.jpg",
+        "genre_ids": [
+            80,
+            18
+        ],
+        "original_language": "en",
+        "id": 112693,
+        "first_air_date": "2021-09-12",
+        "name": "Kin",
+        "vote_count": 3,
+        "overview": "The lives of a Dublin family embroiled in a gangland war and the consequences of their choices.",
+        "vote_average": 8.7,
+        "poster_path": "/wy7nbMxi5soqZwkH7qfechk9eJ6.jpg",
+        "original_name": "Kin",
+        "popularity": 23.289,
+        "media_type": "tv"
+    },
+    {
+        "backdrop_path": "/suopoADq0k8YZr4dQXcU6pToj6s.jpg",
+        "id": 1399,
+        "genre_ids": [
+            10765,
+            18,
+            10759
+        ],
+        "original_language": "en",
+        "poster_path": "/u3bZgnGQ9T01sWNhyveQz0wH0Hl.jpg",
+        "original_name": "Game of Thrones",
+        "origin_country": [
+            "US"
+        ],
+        "vote_average": 8.4,
+        "overview": "Seven noble families fight for control of the mythical land of Westeros. Friction between the houses leads to full-scale war. All while a very ancient evil awakens in the farthest north. Amidst the war, a neglected military order of misfits, the Night's Watch, is all that stands between the realms of men and icy horrors beyond.",
+        "vote_count": 15680,
+        "name": "Game of Thrones",
+        "first_air_date": "2011-04-17",
+        "popularity": 583.005,
+        "media_type": "tv"
+    },
+    {
+        "id": 93811,
+        "genre_ids": [
+            10765
+        ],
+        "original_language": "fr",
+        "name": "Into the Night",
+        "poster_path": "/na6fk6WculNrUPCPPQSPNjNyjvX.jpg",
+        "vote_average": 7.6,
+        "overview": "When the sun suddenly starts killing everything in its path, passengers on an overnight flight from Brussels attempt to survive by any means necessary.",
+        "first_air_date": "2020-05-01",
+        "vote_count": 278,
+        "backdrop_path": "/qKyJDrIBf24C2WwjpjnuWu3M8fu.jpg",
+        "origin_country": [
+            "BE"
+        ],
+        "original_name": "Into the Night",
+        "popularity": 121.645,
+        "media_type": "tv"
+    },
+    {
+        "backdrop_path": "/iW8O8j5yHjxg6ECCGh2u38Lm08E.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "vote_count": 15,
+        "original_language": "en",
+        "vote_average": 9.5,
+        "poster_path": "/wbixU7Pqr04jALK1HqMosuzKE7r.jpg",
+        "id": 126167,
+        "original_name": "Vigil",
+        "origin_country": [
+            "GB"
+        ],
+        "first_air_date": "2021-08-29",
+        "overview": "The mysterious disappearance of a Scottish fishing trawler and a death on-board the submarine HMS Vigil bring the police into conflict with the Navy and British security services. DCI Amy Silva and DS Kirsten Longacre lead an investigation on land and at sea into a conspiracy that goes to the very heart of Britain’s national security.",
+        "name": "Vigil",
+        "popularity": 61.12,
+        "media_type": "tv"
+    },
+    {
+        "original_name": "Only Murders in the Building",
+        "origin_country": [
+            "US"
+        ],
+        "backdrop_path": "/fgYfch0MGfNEpgzPst49ThKUqA4.jpg",
+        "id": 107113,
+        "genre_ids": [
+            35,
+            80,
+            9648
+        ],
+        "first_air_date": "2021-08-31",
+        "name": "Only Murders in the Building",
+        "vote_count": 167,
+        "poster_path": "/lxCmHIN7TTO0sxeAmgDYxqzq8Ob.jpg",
+        "original_language": "en",
+        "overview": "Three strangers who share an obsession with true crime suddenly find themselves wrapped up in one.",
+        "vote_average": 9,
+        "popularity": 132.121,
+        "media_type": "tv"
+    },
+    {
+        "backdrop_path": "/2VDmT4e5OSae8udIy5eXmIx4h9X.jpg",
+        "genre_ids": [
+            18,
+            80
+        ],
+        "original_language": "en",
+        "original_name": "Dr. Death",
+        "origin_country": [
+            "US"
+        ],
+        "first_air_date": "2021-07-15",
+        "vote_average": 7.5,
+        "overview": "The terrifying true story of Dr. Christopher Duntsch, a flourishing Dallas neurosurgeon whose patients suddenly begin becoming permanently maimed or dead. As victims piled up, two fellow physicians set out to stop him.",
+        "name": "Dr. Death",
+        "vote_count": 24,
+        "poster_path": "/4xPIBtOWHzigSNTqbxftzAZS5uT.jpg",
+        "id": 93749,
+        "popularity": 54.746,
+        "media_type": "tv"
+    },
+    {
+        "original_name": "Sex Education",
+        "id": 81356,
+        "first_air_date": "2019-01-11",
+        "backdrop_path": "/7UKgB00W2zFeNQl42SJ3XkJXtql.jpg",
+        "name": "Sex Education",
+        "genre_ids": [
+            35,
+            18
+        ],
+        "original_language": "en",
+        "poster_path": "/8j12tohv1NBZNmpU93f47sAKBbw.jpg",
+        "vote_count": 4068,
+        "overview": "Inexperienced Otis channels his sex therapist mom when he teams up with rebellious Maeve to set up an underground sex therapy clinic at school.",
+        "vote_average": 8.3,
+        "origin_country": [
+            "GB"
+        ],
+        "popularity": 389.437,
+        "media_type": "tv"
+    },
+    {
+        "origin_country": [
+            "US"
+        ],
+        "backdrop_path": "/rNyOeC4uh0YMjZwtrLPFGyVIvyI.jpg",
+        "genre_ids": [
+            18,
+            9648,
+            10765
+        ],
+        "name": "American Horror Story",
+        "id": 1413,
+        "poster_path": "/8NMACR0OE5bwC27rE15f8ManNBO.jpg",
+        "first_air_date": "2011-10-05",
+        "vote_average": 8.1,
+        "overview": "An anthology horror drama series centering on different characters and locations, including a house with a murderous past, an asylum, a witch coven, a freak show, a hotel, a farmhouse in Roanoke, a cult, the apocalypse and a summer camp.",
+        "vote_count": 3970,
+        "original_language": "en",
+        "original_name": "American Horror Story",
+        "popularity": 360.164,
+        "media_type": "tv"
+    }
+]

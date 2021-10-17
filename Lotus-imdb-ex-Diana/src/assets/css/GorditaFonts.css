@@ -1,0 +1,119 @@
+/**
+ * @license
+ * MyFonts Webfont Build ID 3954554, 2020-09-30T10:37:37-0400
+ * 
+ * The fonts listed in this notice are subject to the End User License
+ * Agreement(s) entered into by the website owner. All other parties are 
+ * explicitly restricted from using the Licensed Webfonts(s).
+ * 
+ * You may obtain a valid license at the URLs below.
+ * 
+ * Webfont: Gordita-BlackItalic by Type Atelier
+ * URL: https://www.myfonts.com/fonts/type-atelier/gordita/black-italic/
+ * 
+ * Webfont: Gordita-Black by Type Atelier
+ * URL: https://www.myfonts.com/fonts/type-atelier/gordita/black/
+ * 
+ * Webfont: Gordita-BoldItalic by Type Atelier
+ * URL: https://www.myfonts.com/fonts/type-atelier/gordita/bold-italic/
+ * 
+ * Webfont: Gordita-Bold by Type Atelier
+ * URL: https://www.myfonts.com/fonts/type-atelier/gordita/bold/
+ * 
+ * Webfont: Gordita-LightItalic by Type Atelier
+ * URL: https://www.myfonts.com/fonts/type-atelier/gordita/light-italic/
+ * 
+ * Webfont: Gordita-Light by Type Atelier
+ * URL: https://www.myfonts.com/fonts/type-atelier/gordita/light/
+ * 
+ * Webfont: Gordita-Medium by Type Atelier
+ * URL: https://www.myfonts.com/fonts/type-atelier/gordita/medium/
+ * 
+ * Webfont: Gordita-MediumItalic by Type Atelier
+ * URL: https://www.myfonts.com/fonts/type-atelier/gordita/medium-italic/
+ * 
+ * Webfont: Gordita-RegularItalic by Type Atelier
+ * URL: https://www.myfonts.com/fonts/type-atelier/gordita/regular-italic/
+ * 
+ * Webfont: Gordita-Regular by Type Atelier
+ * URL: https://www.myfonts.com/fonts/type-atelier/gordita/regular/
+ * 
+ * Webfont: Gordita-Thin by Type Atelier
+ * URL: https://www.myfonts.com/fonts/type-atelier/gordita/thin/
+ * 
+ * Webfont: Gordita-ThinItalic by Type Atelier
+ * URL: https://www.myfonts.com/fonts/type-atelier/gordita/thin-italic/
+ * 
+ * Webfont: Gordita-UltraItalic by Type Atelier
+ * URL: https://www.myfonts.com/fonts/type-atelier/gordita/ultra-italic/
+ * 
+ * Webfont: Gordita-Ultra by Type Atelier
+ * URL: https://www.myfonts.com/fonts/type-atelier/gordita/ultra/
+ * 
+ * 
+ * Webfonts copyright: Copyright (c) 2016 by THOMAS GILLETT. All rights reserved.
+ * 
+ * © 2020 MyFonts Inc
+*/
+
+
+/* @import must be at top of file, otherwise CSS will not work */
+@import url("//hello.myfonts.net/count/3c577a");
+  
+@font-face {
+  font-family: 'Gordita-LightItalic';
+  src: url('../fonts/Gordita-LightItalic/font.woff2') format('woff2'), url('../fonts/Gordita-LightItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Gordita-BoldItalic';
+  src: url('../fonts/Gordita-BoldItalic/font.woff2') format('woff2'), url('../fonts/Gordita-BoldItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Gordita-BlackItalic';
+  src: url('../fonts/Gordita-BlackItalic/font.woff2') format('woff2'), url('../fonts/Gordita-BlackItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Gordita-Black';
+  src: url('../fonts/Gordita-Black/font.woff2') format('woff2'), url('../fonts/Gordita-Black/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Gordita-Bold';
+  src: url('../fonts/Gordita-Bold/font.woff2') format('woff2'), url('../fonts/Gordita-Bold/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Gordita-Ultra';
+  src: url('../fonts/Gordita-Ultra/font.woff2') format('woff2'), url('../fonts/Gordita-Ultra/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Gordita-UltraItalic';
+  src: url('../fonts/Gordita-UltraItalic/font.woff2') format('woff2'), url('../fonts/Gordita-UltraItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Gordita-ThinItalic';
+  src: url('../fonts/Gordita-ThinItalic/font.woff2') format('woff2'), url('../fonts/Gordita-ThinItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Gordita-RegularItalic';
+  src: url('../fonts/Gordita-RegularItalic/font.woff2') format('woff2'), url('../fonts/Gordita-RegularItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Gordita-Thin';
+  src: url('../fonts/Gordita-Thin/font.woff2') format('woff2'), url('../fonts/Gordita-Thin/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Gordita-MediumItalic';
+  src: url('../fonts/Gordita-MediumItalic/font.woff2') format('woff2'), url('../fonts/Gordita-MediumItalic/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Gordita-Medium';
+  src: url('../fonts/Gordita-Medium/font.woff2') format('woff2'), url('../fonts/Gordita-Medium/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Gordita-Light';
+  src: url('../fonts/Gordita-Light/font.woff2') format('woff2'), url('../fonts/Gordita-Light/font.woff') format('woff');
+}
+@font-face {
+  font-family: 'Gordita-Regular';
+  src: url('../fonts/Gordita-Regular/font.woff2') format('woff2'), url('../fonts/Gordita-Regular/font.woff') format('woff');
+}
+
